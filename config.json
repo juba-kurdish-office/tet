@@ -4,6 +4,6 @@
     "BOT_TOKEN": "",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"!",
-    "mongoURI": "",                     \\ credit goes to PRANAV#6966 
+    "mongoURI": "",                     // credit goes to PRANAV#6966 
     "ERROR_LOGS_CHANNEL": ""
 }
