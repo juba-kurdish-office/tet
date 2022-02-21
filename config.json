@@ -1,9 +1,9 @@
 {
 
-    "OWNER_ID":"",
-    "BOT_TOKEN": "",
+    "OWNER_ID":"730549617044750346",
+    "BOT_TOKEN": "OTAxODE0ODg0MDIxNDU2OTI3.YXVWjw.m6BOg8S4Rwps-5V095wWzcitBdE",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"!",
-    "mongoURI": "",                     // credit goes to PRANAV#6966 
-    "ERROR_LOGS_CHANNEL": ""
+    "mongoURI": "mongodb+srv://ESPORTS:OO11C6gUCF8b3Ikl@esportss.nl393.mongodb.net/paras?retryWrites=true&w=majority",                     // credit goes to PRANAV#6966 
+    "ERROR_LOGS_CHANNEL": "938506072128380948"
 }
